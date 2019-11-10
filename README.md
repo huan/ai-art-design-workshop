@@ -10,6 +10,8 @@ Artificial Intelligence with Art Design Workshop
 - [Citec Deep Dream Loop](https://www.youtube.com/watch?v=EjiyYtQIEpA) (video)
 - [Vincent Van Gogh in Google DeepDream Space](https://www.youtube.com/watch?v=I2y6kS7396s) (video)
 - [Deep Dream Colab Notebook](https://colab.research.google.com/drive/15FSjyp_-4PFPlYQiFfORjJB25a6MX6I2) (python)
+- [AI艺术日渐繁荣，未来何去何从？](http://robot.chinabyte.com/393/411893.shtml) (news)
+- [对话法国AI绘画研发团队：AI是创造力的催化剂](http://www.bjnews.com.cn/news/2019/06/23/594568.html)
 
 ## Author
 
