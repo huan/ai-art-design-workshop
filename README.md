@@ -8,7 +8,7 @@ Artificial Intelligence with Art Design Workshop
 - [PreAngel公开课：60分钟入门神经网络 - 智能革命即将到来](https://pre-angel.com/entrepreneur-meet-ai/) (talk)
 - [Machine Learning in JavaScript](https://docs.google.com/presentation/d/10u2hKAz4VjryCYr-oHxcxX4HzFeKOir7lq79ASV6TIA/edit#slide=id.p4) (slide)
 - [Citec Deep Dream Loop](https://www.youtube.com/watch?v=EjiyYtQIEpA) (video)
-- [Vincent Van Gogh in Google DeepDream Space](https://www.youtube.com/watch?v=I2y6kS7396s)
+- [Vincent Van Gogh in Google DeepDream Space](https://www.youtube.com/watch?v=I2y6kS7396s) (video)
 
 ## Author
 
