@@ -9,7 +9,7 @@ Artificial Intelligence with Art Design Workshop
 - [Machine Learning in JavaScript](https://docs.google.com/presentation/d/10u2hKAz4VjryCYr-oHxcxX4HzFeKOir7lq79ASV6TIA/edit#slide=id.p4) (slide)
 - [Citec Deep Dream Loop](https://www.youtube.com/watch?v=EjiyYtQIEpA) (video)
 - [Vincent Van Gogh in Google DeepDream Space](https://www.youtube.com/watch?v=I2y6kS7396s) (video)
-- [Deep Dream Colab Notebook](https://colab.research.google.com/drive/15FSjyp_-4PFPlYQiFfORjJB25a6MX6I2)
+- [Deep Dream Colab Notebook](https://colab.research.google.com/drive/15FSjyp_-4PFPlYQiFfORjJB25a6MX6I2) (python)
 
 ## Author
 
