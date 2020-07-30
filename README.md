@@ -2,6 +2,8 @@
 
 Artificial Intelligence with Art Design Workshop
 
+## Test GitHub
+
 {% github_embed "https://github.com/v5analytics/gitbook-plugin-github-embed/blob/1cd16ac/index.js#L3-L8" %}{% endgithub_embed %}
 
 ## Resources
