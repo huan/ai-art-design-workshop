@@ -1,3 +1,13 @@
 {
-    "plugins": ["github-embed"]
+    "plugins": [
+        "github-embed",
+        "scripts"
+    ],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./myscript.js"
+            ]
+        }
+    }
 }
