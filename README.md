@@ -2,10 +2,6 @@
 
 Artificial Intelligence with Art Design Workshop
 
-## Test GitHub
-
-{% github_embed "https://github.com/v5analytics/gitbook-plugin-github-embed/blob/1cd16ac/index.js#L3-L8" %}{% endgithub_embed %}
-
 ## Resources
 
 - [清华大学美院 Design 3.0 | 设计3.0论坛 - Workshop 4：人工智能与设计](https://www.weibo.com/1663343825/GFhBPAW6G) (workshop)
